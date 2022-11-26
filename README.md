@@ -6,6 +6,13 @@
 - 💞️ I’m looking to collaborate on projects that require different Tech Staks
 - 📫 Contact Info available on my Website
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabitzzz&show_icons=true&locale=en" alt="Gabitzzz" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabitzzz)](https://github.com/Gabitzzz/Gabitzzz.git)
+
+
+   <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gabitzzz&bg_color=000000&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" />
+
 <!---
 Gabitzzz/Gabitzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
