@@ -3,7 +3,7 @@
 - 📚 Student at University of Essex, United Kingdom
 - 👀 I’m interested in technology and everything related to it
 - 🌱 I’m currently learning Flutter and Firebase to build Hybrid Apps
-- 💞️ I’m looking to collaborate on projects that require different Tech Stalks
+- 💞️ I’m looking to collaborate on projects that require different Tech Staks
 - 📫 Contact Info available on my Website
 
 <!---
