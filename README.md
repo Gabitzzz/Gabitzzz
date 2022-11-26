@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-   <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gabitzzz&bg_color=000000&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" />
+   <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gabitzzz&bg_color=000000&color=a0adb6&line=ce1128&point=FFFFFF&hide_border=true" />
 
 <!---
 Gabitzzz/Gabitzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
