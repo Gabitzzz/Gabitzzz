@@ -1,4 +1,4 @@
-***👋 Hi, I’m @Gabitzzz 🇷🇴
+## 👋 Hi, I’m @Gabitzzz 🇷🇴
 - 💻 Web Developer and Entrepreneur
 - 📚 Conputer Science Student @ University of Essex, United Kingdom 🇬🇧
 - 👀 My goal is to create a better world with the help of technology 
