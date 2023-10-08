@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Gabitzzz 🇷🇴
 - 💻 Web Developer and Entrepreneur
-- 📚 Conputer Science Student @ University of Essex, United Kingdom 🇬🇧
+- 📚 Conputer Science Graduate @ University of Essex, United Kingdom 🇬🇧
 - 👀 My goal is to create a better world with the help of technology 
 - 🌱 I’m currently learning Flutter and Firebase to build Hybrid Apps
 - 💞️ I’m looking to collaborate on projects that require different Tech Staks
